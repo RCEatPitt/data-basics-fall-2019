@@ -1,10 +1,3 @@
----
-title: Data Basics Fall 2019 Workshop Session One
-layout: default
-permalink: /
-
----
-
 # Basics Workshop Series
 
 This 8-week workshop will teach the basics of the Python programming language with a focus on managing data. Each week will cover the following topics:

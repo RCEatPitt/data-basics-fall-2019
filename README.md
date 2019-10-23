@@ -32,4 +32,4 @@ Instructional Team:
 * Upload these materials to your workspace by clicking this link: https://rce.pitt.edu/load
 
 
-* Launch these materials in [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/RCEatPitt/data-basics-fall-2019/master?urlpath=lab)
+* Launch these materials in Binder visit: https://rce.pitt.edu/binder
